@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 {
     Console.WriteLine("first number;");
-    int a = 5; int.Parse(Console.ReadLine());
+    int a = 4; int.Parse(Console.ReadLine());
 
     Console.WriteLine("second number;");
 
