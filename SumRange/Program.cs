@@ -13,5 +13,5 @@
     }
     Console.WriteLine(sum);
 
-    Console.WriteLine("paniz");
+    Console.WriteLine("alen");
 }
