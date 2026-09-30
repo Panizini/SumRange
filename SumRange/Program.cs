@@ -12,4 +12,6 @@
         sum = sum + i;
     }
     Console.WriteLine(sum);
+
+    Console.WriteLine("paniz");
 }
